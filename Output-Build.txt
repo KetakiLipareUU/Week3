@@ -1,0 +1,6 @@
+﻿Build started at 10:10...
+1>------ Build started: Project: library, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>library -> C:\Users\aif23kel\source\repos\library\library\bin\Debug\net8.0\library.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 10:10 and took 00.326 seconds ==========
